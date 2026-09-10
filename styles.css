@@ -1,0 +1,85 @@
+body{
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* FIRST SECTION */
+ #first-section{
+    background-color: #f10c45;
+    text-align: center;
+    height: 500px;
+ }
+ .first-h1{
+   color: antiquewhite;
+   padding: 4% ;
+   font-family: montserrat;
+   font-weight: bold;
+   font-size: 3rem;
+
+ }
+
+
+
+
+
+
+
+
+ /* SECOND SECTION */
+
+#second-section{
+   padding: 5%;
+}
+.card{
+   margin: 5%;
+   width: 15rem;
+   height: 27rem;
+}
+#card-img{
+   height: 15rem;
+}
+
+
+
+
+
+/* THIRD SECTION */
+
+
+#third-section{
+  background-color: #f15078;
+  text-align: center;
+  padding: 5%;
+}
+.third-sec-p{
+   padding: 1% 20%;
+   line-height: 1.4;
+}
+.third-sec-p-2{
+   line-height: 1.6;
+}
+#third-a{
+   color: black;
+}
+
+
+
+
+/* FOOTER SECTION */
+footer{
+   text-align: center;
+   margin: 5%;
+}
+
+#footer-icon{
+   height: 1.5%;
+   width: 1.5%;
+   margin: 1% 0.5%;
+   color: gray;
+}
+#footer-icon:hover{
+    color: black;
+}
+#copyright-p{
+   font-size: 0.7rem;
+   color: grey;
+}
